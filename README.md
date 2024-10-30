@@ -1,2 +1,2 @@
-# new-project
+# New-Project
 Teste aula teams
